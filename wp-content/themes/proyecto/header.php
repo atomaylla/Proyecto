@@ -38,7 +38,7 @@
     <div class="container" style="border:1px solid  #000">
         <div class="navbar  navbar-static-top" role="navigation">
             <div class="container">
-                <div class="navbar-header" style="border:1px solid  #000">Logo</div>
+                <div class="navbar-header" style="border:1px solid  #000">Logo Proyecto</div>
                 <div class="navbar-collapse collapse" style="border:1px solid #003cb3">
                   <nav id="site-navigation" class="main-navigation" role="navigation">
 <!--			<button class="menu-toggle" aria-controls="menu" aria-expanded="false"><?php //_e( 'Primary Menu', 'proyecto' ); ?></button>-->
